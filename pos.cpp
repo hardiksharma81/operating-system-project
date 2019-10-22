@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+#include<math.h>
 int main()
 {
     int bt[10],p[10],n,temp,i,j,wt[10],sum=0,t,at[10],tat[10],sum1=0,avg1;
